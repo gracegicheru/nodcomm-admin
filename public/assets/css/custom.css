@@ -1,0 +1,127 @@
+/*Push UI*/
+.push-ui-wrapper{
+  position: fixed;
+  z-index: 99999;
+  bottom: 10px;
+  right: 20px;
+  border: 1px solid #eee;
+  background-color: #fff;
+  padding: 10px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.39);
+}
+.push-ui-header{
+  margin-bottom: 5px;
+  color: #000;
+  font-size: 17px;
+  font-weight: 900;
+}
+.push-ui-footer{
+  padding: 0px 20px;
+  padding-top: 5px;
+}
+.push-allow{
+  padding: 2px 8px;
+  border-radius: 0px;
+  margin-right: 5px;
+}
+.push-close{
+  bottom: -2px;
+  position: relative;
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+/*Push UI*/
+input[type=radio] {
+
+    cursor: pointer;
+    display: inline-block;
+    font-family: fontAwesome;
+    font-size: 12px;
+    content: "";
+    border: 1px solid #ccc;
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    text-align: center;
+    width: 17px;
+    height: 17px;
+    line-height: 15px;
+    vertical-align: middle;
+}
+.label-radio.inline {
+    padding-top: 5px;
+	margin-right: 5px;
+}
+.selected{
+	background-color: #00c0ef;
+}
+.inline {
+    display: inline!important;
+}
+
+#valid-msg{
+    color: #00C900;
+}
+
+#error-msg {
+    color: red;
+}
+#valid-msg1{
+    color: #00C900;
+}
+
+#error-msg1 {
+    color: red;
+}
+#valid-email{
+    color: #00C900;
+}
+
+#error-email {
+    color: red;
+}
+#valid-email1{
+    color: #00C900;
+}
+
+#error-email1 {
+    color: red;
+}
+.intl-tel-input{
+	width: 100%;
+}
+.intl-tel-input .country-list .flag-box, .intl-tel-input .country-list .country-name {
+      color: black; }
+/*.side-nav .collapsible > li.active {
+    background-color: #00bcd4 !important;
+}
+.side-nav .collapsible > li.active a {
+	color:#ffffff !important;
+}*/
+header .brand-logo img {
+    height: 50px!important;
+}
+header .brand-logo {
+    padding: 5px 20px!important;
+}
+/*.btn {
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 4px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+  line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+}*/
+.dropdown-content li > a, .dropdown-content li > span {
+    color: #000 !important; 
+}

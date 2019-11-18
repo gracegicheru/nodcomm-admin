@@ -1,0 +1,34 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="format-detection" content="telephone=no"> 
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;">
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+<body style="padding:0; margin:0"></body>
+    <div style="word-wrap:break-word">
+	<div><div><div>
+	<div style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px"></div><div><table bgcolor="#ebedee" cellpadding="0" cellspacing="0" border="0" width="100%" style="font-family:Helvetica;letter-spacing:normal;text-indent:0px;text-transform:none;word-spacing:0px;background-color:rgb(235,237,238)"><tbody><tr><td><table cellpadding="0" cellspacing="0" width="735" align="center" border="0"><tbody><tr><td height="80"></td></tr><tr><td align="center"><a href="https://www.nodcomm.com/" border="0" target="_blank"><img width="35%" border="0" src="{{ url('/images/Nodcomm.png') }}"></a></td></tr><tr><td height="80"></td></tr></tbody></table></td></tr><tr><td><table bgcolor="white" cellpadding="0" cellspacing="0" width="735" align="center" border="0"><tbody><tr><td height="80"></td></tr></tbody></table></td></tr><tr><td><table bgcolor="white" cellpadding="0" cellspacing="0" width="735" align="center" border="0"><tbody><tr><td width="75"></td><td width="585"><a href="https://www.nodcomm.com/" border="0" style="display:inline-block;float:left;border:0px;outline:rgb(0,0,0)" target="_blank"><img border="0" src="{{ url('/favicon.png') }}" ></a><a href="{{url('/purchase/credits')}}" style="float:right;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:rgb(165,171,175);text-decoration:underline;font-size:14px;line-height:20px" target="_blank">Return to your account</a></td><td width="75"></td></tr></tbody></table></td></tr><tr><td><table bgcolor="white" cellpadding="0" cellspacing="0" width="735" align="center" border="0"><tbody><tr><td width="100%" height="15"></td></tr></tbody></table></td></tr><tr><td><table bgcolor="white" cellpadding="0" cellspacing="0" width="735" align="center" border="0"><tbody><tr><td width="75"></td><td width="585" height="1" bgcolor="#ebedee" style="height:1px"></td><td width="75"></td></tr></tbody></table></td></tr><tr><td><table bgcolor="white" cellpadding="0" cellspacing="0" width="735" align="center" border="0"><tbody><tr><td width="100%" height="70"></td></tr></tbody></table></td></tr><tr><td><table bgcolor="white" cellpadding="0" cellspacing="0" width="735" align="center" border="0"><tbody><tr><td width="75"></td><td style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:bold;letter-spacing:-2px;font-size:34px;color:rgb(35,31,32);text-align:center">Thank you for purchasing!</td><td width="75"></td></tr><tr><td width="75"></td><td height="50"></td><td width="75"></td></tr><tr><td width="75"></td><td><p style="display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:rgb(165,171,175);text-decoration:none;font-size:14px;line-height:10px">Transaction: trn_SDVrXPMS1PZlrhTSXHVkLvM6EG0uXUH811</p><table border="0" cellpadding="25" cellspacing="0" width="100%" style="border:5px solid rgb(235,237,238)"><tbody>
+	<tr>
+	<th align="left" style="border:0px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;color:rgb(139,146,150);letter-spacing:-1px;padding-bottom:0px!important">Product</th>
+	<th align="left" style="border:0px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;color:rgb(139,146,150);letter-spacing:-1px;padding-bottom:0px!important">Quantity</th>
+	<th align="left" style="border:0px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;color:rgb(139,146,150);letter-spacing:-1px;padding-bottom:0px!important">Price</th>
+	<th align="left" style="border:0px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;color:rgb(139,146,150);letter-spacing:-1px;padding-bottom:0px!important">Payment Method</th>
+	</tr>
+	<tr>
+	<td style="border-width:0px 0px 1px;border-bottom-style:solid;border-bottom-color:rgb(235,237,238);padding-top:40px;padding-bottom:40px"><h2 style="font-weight:bold;margin:0px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:24px;letter-spacing:-1px">Credits<br><small></small></h2></td>
+	<td style="border-width:0px 0px 1px;border-bottom-style:solid;border-bottom-color:rgb(235,237,238);padding-top:40px;padding-bottom:40px;font-weight:bold;margin:0px 0px 8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:24px">1</td>
+	<td style="border-width:0px 0px 1px;border-bottom-style:solid;border-bottom-color:rgb(235,237,238);padding-top:40px;padding-bottom:40px;font-weight:bold;margin:0px 0px 8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:24px"><span>Kshs 1</span></td>
+	<td style="border-width:0px 0px 1px;border-bottom-style:solid;border-bottom-color:rgb(235,237,238);padding-top:40px;padding-bottom:40px;font-weight:bold;margin:0px 0px 8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:24px"><span>Mpesa</span></td>
+	</tr>
+	<tr>
+	<td width="50%" style="border:0px;padding-top:40px;padding-bottom:40px"></td><td width="35%" style="border:0px;padding-top:40px;padding-bottom:40px;font-weight:bold;margin:0px 0px 8px;line-height:35px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;color:rgb(139,146,150)">Total:<br></td><td width="15%" style="line-height:35px;border:0px;padding-top:40px;padding-bottom:40px;font-weight:bold;margin:0px 0px 8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:15px">Kshs 1<br></td></tr></tbody></table></td>
+	<td width="75"></td></tr><tr>
+	<td height="65"></td>
+	<td height="65"></td>
+	<td height="65"></td>
+	</tr>
+	</tbody></table></td></tr>
+	<tr><td>
+	<table cellspacing="0" cellpadding="0" border="0" width="735" align="center"><tbody><tr><td height="75"></td></tr><tr><td width="100%" align="center" style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;color:rgb(165,171,175)">Copyright © {{date( "Y" )}}<span>&nbsp;</span><a href="https://www.nodcomm.com/" style="display:inline-block;color:rgb(105,113,118);text-decoration:none" target="_blank">Nodcomm</a>. All Rights Reserved.</td></tr><tr><td height="10"></td></tr><tr><td height="75"></td></tr></tbody></table></td></tr></tbody></table></div></div></div></div></div>

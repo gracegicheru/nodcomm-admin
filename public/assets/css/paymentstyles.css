@@ -1,0 +1,289 @@
+#breadcrumb{
+    margin-top:0;
+}
+.intl-tel-input{
+    width: 100%;
+}
+.inactive{
+    color: #ccc;
+}
+input,.selected-dial-code{
+    font-weight: bold !important;
+    font-size: 20px !important;
+}
+.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-4 .selected-flag {
+    width: 96px !important;
+}
+.intl-tel-input.separate-dial-code .selected-flag{
+    background-color: transparent !important;
+}
+.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-4 input, .intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-4 input[type=text], .intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-4 input[type=tel] {
+    padding-left: 100px !important;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.05);
+}
+.panel, .panel .panel-heading{
+    background-color: transparent;
+}
+.loading-overlay .loading-icon{
+    left: 40%;
+}
+textarea{
+    border-left: 0px !important;
+    border-right: 0px !important ;
+    box-shadow: none !important;
+
+}
+textarea:focus ,textarea:active{
+
+    outline:0px !important;
+    -webkit-appearance:none !important;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+
+}
+
+.overlaydisplay{
+    position: absolute;
+    display: none;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    background-color: rgba(0, 0, 0, 0.38);
+    z-index: 999;
+    background: rgba(254, 254, 254, 0.9) url(../images/validating.gif) no-repeat;
+    background-position: center;
+}
+.radio-toolbar {
+    text-align: center;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    padding: 5px 0px;
+}
+.radio-toolbar input[type="radio"] {
+    display: none;
+}
+
+.radio-toolbar label img{
+    display: block;
+    margin: 0px auto;
+    border-radius: 50%;
+}
+.radio-toolbar label {
+    display: inline-block;
+    background-color: rgba(254,254,254,0.8);
+    text-align: center;
+    color: #000;
+    cursor: pointer;
+    width: 19%;
+    height: auto;
+    border-radius: 3px;
+    margin:5px;
+    padding: 5px 10px;
+    overflow: hidden;
+    font-size: 10px;
+    /* Keyword values */
+    text-overflow: ellipsis;
+
+}
+
+.radio-toolbar input[type="radio"]:checked+label {
+    background-color: rgb(188, 0, 0);
+    color: #fff;
+}
+
+::-webkit-input-placeholder { /* Chrome *!*/
+
+    font-size: 16px;
+    font-weight: normal;
+}
+:-ms-input-placeholder { /* IE 10+ */
+
+    font-size: 16px;
+    font-weight: normal;
+}
+::-moz-placeholder { /* Firefox 19+ */
+
+    font-size: 16px;
+    font-weight: normal;
+    opacity: 1;
+}
+.back_holders{
+    background-color: transparent !important;
+}
+.back_holders img{
+    -webkit-filter: drop-shadow(1px 3px 1px #000);
+    filter: drop-shadow(1px 3px 1px #000);
+}
+:-moz-placeholder { /* Firefox 4 - 18 */
+
+    font-size: 16px;
+    font-weight: normal;
+    opacity: 1;
+}
+
+.stiched-input,.stiched-input:focus{
+    border: 0px solid rgba(216, 255, 219,.4) !important;
+    padding: 2px;
+    width: 100%;
+    color: #000000;
+    -webkit-border-radius: 30px !important;
+    -moz-border-radius: 30px !important;
+    border-radius: 30px !important;
+    outline:0 !important;
+    position: relative;
+    text-align: center;
+    background: #d8ffdb;
+    padding-left:10px;
+    padding-right:10px;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.6),0 1px 0 rgba(0,0,0,.6), 0 -1px 1px rgba(0,0,0,.5), 0 1px 0 rgba(0,0,0,.5) !important;
+}
+.textarea-stiched {
+    height: 40px !important;
+}
+
+.input-stich{
+    margin: 0px auto;
+    padding: 3px;
+    color: #fff;
+    max-width: 335px;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 1.3em;
+    border: 2px dashed rgba(255,255,255, .3);
+    border-radius: 30px;
+    text-shadow: -1px -1px #d8ffdb;
+    position: relative;
+
+}
+
+/*.input-stich:before, .input-stich:after {
+    content: "";
+    display: block;
+    position: absolute;
+    -webkit-border-radius: 30px !important;
+    -moz-border-radius: 30px !important;
+    border-radius: 30px !important;
+}
+.input-stich:before {
+    content: '';
+    display: block;
+    position: absolute;
+    width: calc(100% - 8px);
+    top: 0px;
+    height: 52px;
+    bottom: 0px;
+    left: 0px;
+    opacity: .7;
+    right: 0px;
+    z-index: 0;
+
+}
+.input-stich:after{
+    border: 2px dashed rgba(255, 255, 255, 0.35);
+    top: 4px;
+    left: 4px;
+    right: 4px;
+    bottom: 4px;
+}*/
+.search-box{
+    background-color: transparent;
+    margin:10px auto;
+    width: 100%;
+    max-width: 335px;
+}
+.search-input-holder{
+    position: relative;
+}
+.search-icon{
+    position: absolute;
+    z-index: 999999;
+    top: 10px;right: 20px;
+    color: #000;
+}
+
+#wrap {
+    margin: 10px auto;
+    position: relative;
+    height: 30px;
+    max-width: 327px;
+    width: auto;
+}
+
+#search {
+    height: 30px;
+    font-size: 13px;
+    display: inline-block;
+    font-weight: 100;
+    border: none;
+    outline: none;
+    color: #000;
+    padding: 3px;
+    padding-right: 30px;
+    width: 0px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 3;
+    transition: width .4s cubic-bezier(0.000, 0.795, 0.000, 1.000);
+    cursor: pointer;
+}
+
+
+
+#wrap:hover #search {
+    width: 100%;
+    z-index: 1;
+    border-bottom: 1px solid #BBB;
+    cursor: text;
+}
+.hover-effect{
+    width: 100% !important;
+    z-index: 1;
+
+    cursor: text;
+}
+#search_submit {
+    height: 30px;
+    width: 33px;
+    display: inline-block;
+    color:#000;
+    float: right;
+    background-color: #d8ffdb ;
+    text-indent: 0px;
+    border: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 50%;
+    z-index: 5;
+    cursor: pointer;
+    border:transparent;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.6),0 1px 0 rgba(0,0,0,.6), 0 -1px 1px rgba(0,0,0,.5), 0 1px 0 rgba(0,0,0,.5) !important;
+}
+
+.ui-autocomplete-loading {
+    background: url('/static/images/ellipsis.gif')  no-repeat left center;
+    background-size: 20px 20px;
+}
+.spinner {
+    display: none;
+    z-index: 999999;
+    position: absolute;
+    right: 35px;
+    top: 7px;
+}
+
+.ui-autocomplete{
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+
+
